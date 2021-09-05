@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    width: 400px;
+    padding: 20px 20px;
+    border: 2px solid darkcyan;
+    border-radius: 50px;
+}
+.buttons{
+padding: 10px;
+
+}
+
+/* #resultShow{
+    
+} */
+
+.buttons button{
+    padding: 5px;
+    border: white;
+    border-radius: 5px;
+    
+}
+
+#startGame{
+    background: greenyellow ;
+}
+#restartGame{
+    background: rgb(108, 193, 241) ;
+}
